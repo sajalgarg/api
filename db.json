@@ -1,20 +1,31 @@
 {
-"questions1":[
+  "questions1": [
     {
       "quesId": 1,
-      "quesName": "How was the price?"
+      "quesName": "Post 1"
     },
     {
       "quesId": 2,
-      "quesName": "How was the service?"
+      "quesName": "Post 2"
     },
     {
       "quesId": 3,
-      "quesName": "...Question3...?"
+      "quesName": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     },
     {
-      "quesId": 4,
-      "quesName": "..Quesion.4...?"
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
     }
-   ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
