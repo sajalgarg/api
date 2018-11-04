@@ -1,0 +1,20 @@
+{
+"questions1":[
+    {
+      "quesId": 1,
+      "quesName": "How was the price?",
+    },
+    {
+      "quesId": 2,
+      "quesName": "How was the service?",
+    },
+    {
+      "quesId": 3,
+      "quesName": "...Question3...?",
+    },
+    {
+      "quesId": 4,
+      "quesName": "..Quesion.4...?",
+    }
+   ]
+}
